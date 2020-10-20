@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="*|O?OtrfWn:DA+c4m3Ah" x="20" y="20"><statement name="HANDLER"><block type="basic_show_arrow" id="0=A^%=RU{KVS2v2_ME5B"><value name="i"><shadow type="device_arrow" id="v-0rzEJ]%lhLG5id)pe1"><field name="arrow">ArrowNames.North</field></shadow></value></block></statement></block></xml>
